@@ -1,0 +1,65 @@
+.left{
+  width: 30%;
+  background-color: white;
+  overflow: scroll;
+}
+
+
+.left-item{
+  width:100%;
+  line-height: 50px;
+  text-align: center;
+  border-bottom: 1px solid #C4C4C4;
+}
+.left-item-click{
+  width:100%;
+  line-height: 50px;
+  text-align: center;
+  background-color: #C4C4C4;
+  border-bottom: 1px solid #C4C4C4;
+}
+
+.right{
+width:70%;
+overflow: scroll;
+
+}
+.categorys{
+  display: flex;
+}
+
+::-webkit-scrollbar {
+	/*隐藏滚轮*/
+	display: none;
+}
+
+.right-item-font{
+  text-align:center;
+  line-height: 40px;
+  background-color: white;
+  margin: 0 2%;
+}
+
+.right-item-contens{
+  width: 100%;
+}
+
+.contens-item{
+  width: 80%;
+  margin:10px auto;
+  flex-shrink: 0;
+  background-color: white;
+  text-align: center;
+  
+}
+
+.contens-item img{
+  width: 90%;
+  margin:0 auto;
+}
+
+.contens-item p{
+    line-height: 25px;
+    font-size:12px;
+    height: 25px;
+}

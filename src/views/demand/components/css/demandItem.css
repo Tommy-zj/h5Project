@@ -1,0 +1,50 @@
+.demand-list-item{
+  width: 100%;
+  font-size:13px;
+  background-color: white;
+  margin-top: 10px;
+}
+
+.demand-list-item-top{
+  text-align: center;
+  line-height: 40px;
+  width: 100%;
+  position: relative;
+}
+
+.demand-list-item-content{
+  line-height: 25px;
+}
+
+.demand-list-item-top img{
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 0;
+}
+
+.demand-list-item-null{
+  height: 10px;
+}
+
+.request-demand {
+  width: 92%;
+  margin-left: 4%;
+  position: relative;
+}
+.null-screen {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-color: #f2f2f2;
+  z-index: 100;
+  opacity: 0.8;
+}
+
+.weui-loadmore{
+  z-index: 1000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}

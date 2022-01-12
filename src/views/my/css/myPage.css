@@ -1,0 +1,50 @@
+.my-page-top-avatar{
+    width: 150px;
+    margin: 10px 4%;
+}
+
+.my-page-top{
+  display: flex;
+  font-size: 12px;
+}
+.my-page-top-info{
+  margin: 10px 0px;
+  
+}
+
+.my-page-top-info div{
+  line-height: 25px;
+}
+
+.my-page-certificate,.my-page-introduce{
+  line-height: 30px;
+  margin-left:4%;
+
+}
+
+.my-page-introduce-content{
+  font-size: 13px;
+  line-height: 20px;
+  margin-left: 10px;
+}
+
+.my-page-certificate-content{
+  margin-left: 10px;
+}
+
+.my-page-certificate-content-name{
+  line-height: 30px;
+}
+
+.my-page-certificate-content-img{
+  width: 90%;
+}
+
+.eidt-icon{
+  width:25px;
+  height: 25px;
+}
+
+.my-page-bottom-null{
+  height: 60px;
+}

@@ -1,0 +1,33 @@
+.mechanic{
+  width: 92%;
+  padding:4% 4%;
+  background-color: white;
+}
+.choosed{
+  line-height:30px;
+
+}
+.category{
+  margin-top: 10px;
+}
+.category-title{
+  line-height: 30px;
+}
+.category-content{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.category-item,.category-item-choosed{
+  line-height: 30px;
+  padding: 1.5px 10px;
+  margin-right:15px;
+  margin-bottom: 10px;
+}
+
+.category-item{
+  background-color: #dddddd;
+}
+.category-item-choosed{
+  background-color: yellowgreen;
+}

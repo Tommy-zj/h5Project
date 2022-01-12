@@ -1,0 +1,26 @@
+.afters-sales-top{
+  width: 92%;
+  margin-left: 4%;
+ 
+}
+.afters-sales-shop{
+  display: flex;
+  width: 100%;
+
+}
+
+.afters-sales-shop img{
+  width: 120px;
+  height: 160px
+}
+
+.afters-sales-top-title{
+  line-height: 40px;
+  font-weight: bold;
+}
+
+.afters-sales-shop-font{
+  font-size: 13px;
+  line-height: 25px;
+  margin-left: 10px;
+}

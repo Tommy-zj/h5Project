@@ -1,0 +1,39 @@
+.address-card-choose{
+  width: 100%;
+  background-color: white;
+  font-size:13px;
+}
+
+.address-card-top{
+  margin-left:15px;
+  line-height: 30px;
+}
+
+.address-card-content{
+  width: 100%;
+  display: flex;
+  flex:1;
+}
+
+.address-card-content-item{
+  margin-left: 5%;
+  width: 40%;
+  height: 80px;
+}
+
+.address-card-content-item-content{
+  margin: 0 auto;
+  line-height: 30px;
+  width: 50px;
+  text-align: center;
+}
+
+.address-card-content-item-number{
+  width: 50px;
+  line-height: 35px;
+  height: 35px;
+}
+
+.address-card-null{
+  height: 10px;
+}

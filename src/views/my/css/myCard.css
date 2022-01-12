@@ -1,0 +1,32 @@
+.my-body{
+  width: 92%;
+  margin: 0 4%;
+  height: 100px;
+  position: relative;
+  background-color: white;
+  display: flex;
+}
+
+
+
+.my-boy-top-null{
+  height: 10px;
+}
+
+.my-body-avatar{
+  margin-left: 5px;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.my-body-right{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 80px;
+  font-size: 13px;
+}

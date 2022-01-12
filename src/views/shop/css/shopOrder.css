@@ -1,0 +1,127 @@
+.shop-order-address{
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  height: 60px;
+}
+
+.shop-order-address-img{
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.shop-order-body{
+  width: 92%;
+  padding-left: 4%;
+  padding-right:4%;
+  font-size: 13px;
+}
+
+
+.shop-order-address-content{
+  position: absolute;
+  left: 50px;
+  font-size: 13px;
+}
+
+.shop-order-right-row{
+  position: absolute;
+  right: 0;
+  width: 30px;
+  height: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.order-shop-title{
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 30px;
+  margin-top: 10px;
+}
+
+.order-shop-img{
+  width: 70px;
+  height: 100%;
+}
+
+.order-shop-content{
+  display: flex;
+}
+
+.order-shop-content-right{
+  margin-left:10px;
+}
+
+.order-number-body{
+  display: flex;
+  position: relative;
+  line-height: 30px;
+  margin-top: 10px;
+}
+
+.order-number-border{
+  position: absolute;
+  right: 0;
+  display: flex;
+  font-size: 15px;
+}
+
+.order-number-control{
+  border: 1px solid gray;
+  width: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.order-number-num{
+  border-top: 1px solid gray;
+  border-bottom:1px solid gray ;
+  width: 40px;
+  line-height: 30px;
+  text-align: center;
+}
+
+.send-method-body{
+  margin-top: 10px;
+  position: relative;
+  width: 100%;
+  display: flex;
+}
+
+.send-method-row{
+  position: absolute;
+  right: 0;
+}
+
+.shop-order-body-order-remark{
+  margin-top: 10px;
+}
+
+.order-remark-input{
+  margin-left: 10px;
+  border: none;
+}
+
+.shop-order-bottom{
+  position: fixed;
+  bottom: 0;
+  right: 4%;
+  line-height: 50px;
+  display: flex;
+}
+
+.sure-to-paid{
+  border: 1px solid black;
+  border-radius: 35px;
+  height: 30px;
+  line-height: 30px;
+  width: 80px;
+  text-align: center;
+  margin: auto 0;
+  margin-left: 10px;
+}

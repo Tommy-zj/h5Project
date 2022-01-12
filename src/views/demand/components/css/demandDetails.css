@@ -1,0 +1,35 @@
+.demand-details{
+  font-size: 13px;
+  width: 92%;
+  margin-left: 4%;
+}
+
+.demand-detalis-top{
+  line-height: 30px;
+}
+
+.demand-details-img img{
+  margin-left: 10%;
+  width: 80%;
+}
+
+.demand-details-content{
+  line-height: 30px;
+}
+
+.demand-details-address img{
+  width: 25px;
+  height: 25px;
+  margin-top: 2.5px;
+}
+.demand-details-address p{
+  margin-left:10px;
+}
+.demand-details-address{
+  display: flex;
+  line-height: 30px;
+}
+
+.demand-details-address-null{
+  height: 30px;
+}

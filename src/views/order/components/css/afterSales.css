@@ -1,0 +1,22 @@
+.after-sales-top,.after-sales-content{
+  width: 92%;
+  margin-left:4%;
+  
+}
+.after-sales-top-title{
+  line-height: 40px;
+  font-weight: bold;
+}
+.after-sales-shop{
+  display: flex;
+}
+.after-sales-shop img{
+  width: 120px;
+  height: 160px;
+}
+
+.after-sales-shop-font{
+  margin-left: 10px;
+  margin-top: 10px;
+  font-size: 13px;
+}

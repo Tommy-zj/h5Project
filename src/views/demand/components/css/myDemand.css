@@ -1,0 +1,31 @@
+.my-demand-top{
+  position: fixed;
+  background-color: white;
+  z-index: 10;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  display: flex;
+  overflow: scroll;
+  overflow-x: scroll;
+}
+
+.my-demand-top-item{
+width: 100px;
+text-align: center;
+}
+
+.my-demand-top-item-click{
+  width: 100px;
+  text-align: center;
+  border-bottom: 2px solid red; 
+}
+
+.my-demand-top-null{
+  height: 50px;
+}
+
+.demand-list{
+  width: 92%;
+  margin-left:4%;
+}

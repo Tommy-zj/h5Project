@@ -1,0 +1,40 @@
+.order-body{
+  width: 92%;
+  background-color: white;
+  margin-left: 4%;
+  margin-top: 10px;
+  display: flex;
+  font-size: 13px;
+}
+
+.order-body-top{
+  line-height: 30px;
+  height: 30px;
+}
+
+.order-body-line{
+  width: 5px;
+  height: 100px;
+}
+
+.order-body-contens{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.order-body-item{
+  width: 25%;
+  height: 80px;
+  text-align: center;
+  margin: 10px 0;
+}
+
+.order-body-item img{
+  width: 40px;
+  height: 40px;
+}
+
+.order-body-item p{
+  line-height: 20px;
+}

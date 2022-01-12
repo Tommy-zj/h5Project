@@ -1,0 +1,61 @@
+.shop-top{
+  display: flex;
+  font-size:13px;
+  line-height: 25px;
+  height: 25px;
+}
+
+.shop-icon{
+  width: 25px;
+  height: 25px;
+}
+
+.collect{
+  width: 92%;
+  margin-left:4%;
+  background-color: white;
+  padding: 5px 4px;
+  margin-bottom: 10px;
+}
+
+.collect-shop-img{
+  width: 100px;
+  height: 120px;
+}
+
+.shop-middle{
+  display: flex;
+
+}
+
+.shop-describe{
+  margin: 10px 5px;
+}
+
+.bottomButtom{
+  display: flex;
+  width: 100%;
+  background-color: white;
+  height: 30px;
+  position: relative;
+}
+
+.count{
+  height: 30px;
+  width: 100%;
+  text-align: right;
+}
+
+.bottomBars{
+  display: flex;
+  position: absolute;
+  right: 0;
+}
+
+.similar,.delete{
+  margin-left:10px;
+  padding: 0 20px;
+  border-radius: 30px;
+  line-height: 30px;
+  border: 1px solid #dddddd;
+}
